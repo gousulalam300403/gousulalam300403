@@ -1,55 +1,106 @@
-<h1 align="center">Hi there 👋, I'm Gousul Alam</h1>
-<h3 align="center">💻 Tech Enthusiast | 🚀 Always Learning | 🎨 Creative Coder</h3>
+# Hi 👋, I'm Gousul Alam
 
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C4FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Tech+Enthusiast+and+Learner;Love+to+Build+Cool+Projects" alt="Typing SVG">
-</p>
+<h3 align="center">💻 IT Enthusiast | 📡 Network & Web Developer | 🎨 Creative Learner</h3>
 
----
+<!-- Animated Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Technology+⚡;Creative+Mindset+🚀;Always+Learning+Everyday!" alt="Typing animation" />
+</div>
 
-### 🚀 About Me
-- 🔭 Currently working on **Web Development Projects**  
-- 🌱 Learning **PHP | MySQL | JavaScript | AI Basics**  
-- 💡 Interested in **Web Apps, Data Mining, and Creative Coding**  
-- 🎮 Fun fact: I love experimenting with code like a game!  
+<!-- Cyber Game Animation -->
+<div align="center">
+  <img src="https://i.gifer.com/7sc5.gif" width="600" alt="cyber animation" />
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,linux,vscode" />
-</p>
+## 🙋‍♂️ About Me
+📍 Rangkasbitung, Banten - Indonesia  
+
+🌟 Passionate about technology & creativity.  
+💡 Experienced in **IT Training, Web Development, Networking, and Hardware Maintenance**.  
+🚀 Strong belief that **learning is a lifelong journey** and every project is a chance to grow.  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gousulalam300403&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gousulalam300403&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gousulalam300403&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+## 🏆 Certifications
+- 🎨 Graphic Designer – Souvenir Digital Printing *(Oct 2021)*  
+- 🎨 Junior Graphic Designer *(Nov 2023)*  
+- 👨‍🏫 Junior Instructor *(Aug 2024)*  
+- 📱 Content Creator *(Dec 2024)*  
+- 🌐 Network Administrator *(Jan 2025)*  
 
 ---
 
-### 🐍 Fun Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gousulalam300403/gousulalam300403/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
+## 🛠️ Tech Stack & Skills
+
+**Languages & Technologies:**
+<div class="tech-stack">
+  <img src="https://img.shields.io/badge/Java-00B4D8?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FF7F51?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-008CFF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD60A?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-5E60CE?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4CC9F0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-4361EE?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4895EF?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+**Tools & Frameworks:**
+<div class="tools-section">
+  <img src="https://img.shields.io/badge/Office-FF6F61?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/CorelDRAW-06D6A0?style=for-the-badge&logo=coreldraw&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00B4D8?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-222222?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-1E90FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-6C63FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9D4EDD?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+</div>
 
 ---
 
-### 🎯 Let's Connect!
-<p align="center">
-  <a href="https://github.com/gousulalam300403"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:gousul.alam@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="mailto:gousulalam30@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/gousulalam300403"><img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://instagram.com/g_lamzzz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
 ---
+
 ⭐ From [Gousul Alam](https://github.com/gousulalam300403)
+
+---
+
+<!-- Styles -->
+<style>
+  body {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #f1f1f1;
+    font-family: 'Fira Code', monospace;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3 {
+    text-align: center;
+    margin: 20px 0;
+    color: #00E5FF;
+    text-shadow: 0 0 10px rgba(0,229,255,0.4);
+  }
+
+  p, li {
+    color: #e6e6e6;
+    font-size: 1.05rem;
+  }
+
+  /* Hover effects */
+  .tech-stack img, .tools-section img {
+    margin: 5px;
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+  .tech-stack img:hover, .tools-section img:hover {
+    transform: scale(1.1);
+    filter: brightness(1.15);
+  }
+</style>
