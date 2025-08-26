@@ -37,8 +37,8 @@
 **Languages & Technologies:**
 <div class="tech-stack">
   <img src="https://img.shields.io/badge/Java-00B4D8?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-FF7F51?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-008CFF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-FF7F51?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-008CFF?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FFD60A?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-5E60CE?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-4CC9F0?style=for-the-badge&logo=python&logoColor=white" />
