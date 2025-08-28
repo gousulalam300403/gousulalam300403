@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/Python-4CC9F0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-4361EE?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4895EF?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </div>
 
 **Tools & Frameworks:**
@@ -51,12 +52,19 @@
   <img src="https://img.shields.io/badge/Office-FF6F61?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/CorelDRAW-06D6A0?style=for-the-badge&logo=coreldraw&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00B4D8?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-222222?style=for-the-badge&logo=capcut&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-1E90FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-6C63FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9D4EDD?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005b?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-00005b?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
 </div>
 
+**Languages:**
+<div class="languages-section">
+  <img src="https://img.shields.io/badge/Arabic-006400?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-000080?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Indonesian-FF0000?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sundanese-FF8C00?style=for-the-badge&logo=language&logoColor=white" />
+</div>
 ---
 
 ## 🤝 Let's Connect!
