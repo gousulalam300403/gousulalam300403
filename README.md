@@ -58,14 +58,13 @@
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-00005b?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
 </div>
 
-**Languages:**
+**My Languages:**
 <div class="languages-section">
   <img src="https://img.shields.io/badge/Arabic-006400?style=for-the-badge&logo=language&logoColor=white" />
   <img src="https://img.shields.io/badge/English-000080?style=for-the-badge&logo=language&logoColor=white" />
   <img src="https://img.shields.io/badge/Indonesian-FF0000?style=for-the-badge&logo=language&logoColor=white" />
   <img src="https://img.shields.io/badge/Sundanese-FF8C00?style=for-the-badge&logo=language&logoColor=white" />
 </div>
----
 
 ## 🤝 Let's Connect!
 
