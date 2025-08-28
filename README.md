@@ -24,11 +24,12 @@
 ---
 
 ## 🏆 Certifications
-- 🎨 Graphic Designer – Souvenir Digital Printing *(Oct 2021)*  
-- 🎨 Junior Graphic Designer *(Nov 2023)*  
-- 👨‍🏫 Junior Instructor *(Aug 2024)*  
-- 📱 Content Creator *(Dec 2024)*  
-- 🌐 Network Administrator *(Jan 2025)*  
+-🐍 Python Fundamental for Data Science (Apr 2024)
+-🎨 Graphic Designer – Souvenir Digital Printing (Oct 2021)
+-🎨 Junior Graphic Designer (Nov 2023)
+-👨‍🏫 Junior Instructor (Aug 2024)
+-📱 Content Creator (Dec 2024)
+-🌐 Network Administrator (Jan 2025)
 
 ---
 
