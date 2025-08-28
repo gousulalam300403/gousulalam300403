@@ -67,6 +67,8 @@
   <img src="https://img.shields.io/badge/Sundanese-FF8C00?style=for-the-badge&logo=language&logoColor=white" />
 </div>
 
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
