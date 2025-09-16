@@ -15,7 +15,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-📍 Rangkasbitung, Banten - Indonesia  
+📍 Banten - Indonesia  
 
 🌟 Passionate about technology & creativity.  
 💡 Experienced in **IT Training, Web Development, Networking, and Hardware Maintenance**.  
