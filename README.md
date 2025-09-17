@@ -9,7 +9,7 @@
 
 <!-- Cyber Game Animation -->
 <div align="center">
-  <img src="https://i.gifer.com/7sc5.gif" width="600" alt="cyber animation" />
+  <img src= "https://gifer.com/en/1Sto" width="600" alt="cyber animation" />
 </div>
 
 ---
